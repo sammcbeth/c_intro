@@ -1,0 +1,20 @@
+- basic ops: logical arithmetic and assignment
+- conditional statemtns: making decisions
+- repeating code: looping for while and do while
+- arrays: defiing intializing
+- functions: declaration and use. call by vlaue and call by reference
+- debugging: call stack common mistakes understanding compiler messages.
+- structs: intializing, nested structures and variants
+- character strings: basics arrays of chars character operation
+- Pointers: definition and use using with functions arrays malloc pointer arithmetic
+- the preprocessor: define, include
+- input and output:
+- file input output: reading and writing to a file
+- standard c library:
+- c is a general purpose impreative computer programming language that supports structured programming
+- uses statements that change a programs state funcseds on how
+- on of the most widely used 
+- c is the preferred language for producing word processing proigrams spreadshseets and compilers
+- c has become popular for programming embedded systems
+- c has and consitinues to play a strong role in the dev of linux
+- 
