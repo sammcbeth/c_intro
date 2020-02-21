@@ -1,0 +1,33 @@
+!preprocessor!
+- another unique feature of the c language that is not found in many other higher livel programming languages
+- allows for programs to be easier to develop easier to red and easier tp modify and easier to port to different computer systems.
+- part of the c compilation process that recogizes special statments.
+- analyzes these statemtnts before analysis of the c program itself takes place.
+- an instruction to you compiler to do something before compillig the source code.
+- could be anywhere in your code.
+- preprocessor statmets are identified by the presence of a poind sign whic must be the first non space char on the line
+- our first challendge using #include
+- we will use these to
+    - crea our own constants and macros with the define statements
+    - build your own lubrary files wiht the include statment
+    - make more powerful programs with the conditioon ifdef endif else and ifndef statements
+- #include
+    - preprocessor directive
+    - ist is not strictle part of the executable program however the program wont word without it
+    - the symbol # indicates this is a preprocessor directive
+    -
+- Header files
+    - stdio.h is the standard c library hader and provides functionality for displaying output among many other things
+    - we need to include this file in a program when using the printf function from the standard library
+    - stdio.h contains the information that the compiler needs to understand what printf means as well as othr fucntions that deal with input and output
+    - stdio is short for standard input output
+    - specify inoformation that the compiler uses to integrate any predefine dfucntions within a programm
+    - you willll be creating your own header files for use with your programs
+    - <jason.h> tells the preprocesser to look fo rthe file in one or more standard system firecotres.
+    - "jason.h" tells the preprocessor to look inside the current directory.
+- Syntax:
+    - typeDefs: typedef struct names_st names;
+    - function prototypes: void get_names(names *);
+- header files can define directives sturcture declarations typedef statements function prototypes
+- executable code usually goes into a source file not a header file.
+- 

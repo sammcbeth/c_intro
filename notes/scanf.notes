@@ -1,0 +1,5 @@
+!scanf!
+- the scnf function uses pointers to variables
+- returns the number of items that it successfully reads
+- if you use scanf to read a value for one of the basic variable types weve discussed preces the cariable name with an &
+- if you use scanf to read a string into a character array dont use an &

@@ -1,0 +1,6 @@
+!enums!
+- defines a variable which can only be the types as defined
+- defnied as enum month {jan, feb, ...}
+- the compiler actually treates enumeration identifiers as interfer constancts
+- first name in list is 0
+- 

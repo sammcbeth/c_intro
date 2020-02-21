@@ -1,0 +1,7 @@
+!escaoe characters!
+- c contains special characters that represent actions 
+- backspacing
+- going to the next line
+- making the terminal bell ring
+- we can represent these actuons by using special symbol sequesnces
+- called escape sequesnces
