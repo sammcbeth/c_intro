@@ -1,7 +1,10 @@
 # depslib dependency file v1.0
-1582208151 source:c:\users\sammc\development\c_intro\intro\scanf\main.c
+1582328351 source:c:\users\sammc\development\c_intro\intro\scanf\main.c
 	<stdio.h>
 
 1582208167 source:c:\users\sammc\development\c_intro\intro\scanf\variables.c
+	<stdio.h>
+
+1582328181 source:c:\users\sammc\development\c_intro\intro\scanf\this.c
 	<stdio.h>
 

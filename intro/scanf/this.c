@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+int this()
 {
     int integerVar = 100;
     float floatingVar = 33.9;
@@ -10,5 +10,6 @@ int main()
     printf("integer = %i\n", integerVar);
     printf("integer = %f\n", floatingVar);
     printf("char = %c\n", charVar);
-    printf("bool = %i\n", boolVar);
+    printf("this = %i\n", boolVar);
+    return 0;
 }
