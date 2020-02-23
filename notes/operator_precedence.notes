@@ -1,0 +1,8 @@
+!operator precedence!
+- the order of executing the various operations can make a difference so C needs unabiguous rules for choosing what to do first
+- each operator is assigned  aprecedence level
+- multiolication and division have a higher precedence than addition and subtraction so they are performed first
+- whatever is enclosed in paranthesis is executed first should just always use () to group expressions
+- two ops have same precedence
+    - then associativity rules are applied
+- 

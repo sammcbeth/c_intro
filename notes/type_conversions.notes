@@ -1,0 +1,9 @@
+!data type conversions!
+- understand the implicit conversions or use the castof operator
+- assigning a float to an int automatically converts and truncated decimal rep
+- performing arithmetic with integers always returns an integer truncated
+- steer clear of automatic type conversions
+- instead use the cast operator
+- (int) 21.51 + (int) 26.99 == 21 + 26
+- sizeof will give you the number of bytes a variable takes up in memory
+- 

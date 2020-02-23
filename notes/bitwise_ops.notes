@@ -1,0 +1,15 @@
+!bitwise operators!
+- used for comparing the binary representation of a number
+- whatever operation goes bit by bit within that binary representation
+- so or returns 1 if either number has a 1 in that binary rep spot
+    - 1101 1100
+    - 0011 0011
+    = 1111 1111
+- and requires both to have 1 in that spot
+    - 1101 1100
+    - 0011 0011
+    = 0001 0000
+- shift : << or >>
+    - 0011 1100
+    - <<
+    - 1111 0000
