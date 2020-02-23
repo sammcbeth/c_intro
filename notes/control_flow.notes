@@ -1,0 +1,10 @@
+!control flow!
+- statements are typically executed from top to bottom
+- control flow statements will change this
+- executing diff blocks of code at specified times
+- decision making statements  
+    - if then, if then else, switch, goto
+- loooping statements
+    - while, do while, for
+- branching statements
+    - break
