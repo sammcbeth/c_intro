@@ -1,0 +1,6 @@
+!arrays!
+- an array is a fixed number o data items that are all the same type.
+    - curious to see how much of an issue this is since i so frequently append or pop from arrays in different subroutines
+- must all be data of the same data types
+- type name[length];
+-
